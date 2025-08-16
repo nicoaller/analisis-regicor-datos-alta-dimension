@@ -1,12 +1,6 @@
 ## TRABAJO REGICOR
 ## MODELIZACIÓN ESTADÍSTICA DE DATOS DE ALTA DIMENSIÓN
 
-## Pedro Pérez Francos
-## pedro.perez2@udc.es
-
-## Nicolás Aller Ponte
-## nicolas.aller@udc.es
-
 
 # EJERCICIO 1: Realizar un estudio descriptivo de las variables que se 
 #consideren de interés
